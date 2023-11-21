@@ -1,3 +1,5 @@
+Project by: Andasov Temirlan, Nursultan Nurlybayev from SE-2218
+
 # Bank Account System
 
 This project is a simple Java-based bank account system that demonstrates various design patterns including Strategy, Singleton, Decorator, Adapter, Observer, and Factory.
